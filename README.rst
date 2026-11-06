@@ -1,9 +1,8 @@
 HiPest-Net: a controlled study on IP102
 =======================================
 
-Code for the paper *HiPest-Net revisited: a controlled study of attention, multi-scale fusion and
-taxonomy-aware heads for insect pest recognition* (Almustafa Abed, submitted to Computers and
-Electronics in Agriculture).
+Code for the paper *Do attention, multi-scale fusion and taxonomy-aware heads improve insect pest
+recognition? A controlled study on IP102* (Almustafa Abed, under review).
 
 HiPest-Net adds identity-gated staged attention (coordinate attention, a channel/spatial
 re-attention block and large-kernel attention), a two-layer BiFPN and a crop-then-species head to
